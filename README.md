@@ -14,7 +14,7 @@ All those opinions you have on React? They need a place to go! This simple blog 
 
 ## How To Use
 
-1. Visit the live deployment [here]( heroku )
+1. Visit the live deployment [here](https://quiet-dusk-25670.herokuapp.com/)
 
 2. Sign up for an account and you'll be immediately directed to your own personal dashboard, where a giant pink button beckons you to make a new post.
 
@@ -26,7 +26,7 @@ All those opinions you have on React? They need a place to go! This simple blog 
 
 ## Website URL
 
-[something heroku]
+[https://quiet-dusk-25670.herokuapp.com/]
 
 ## Contributions
 
@@ -37,3 +37,11 @@ All those opinions you have on React? They need a place to go! This simple blog 
 ----
 ❤️ Made with love by Adriana ❤️
 ©️2021 Copyright Adriana Nieves
+
+
+https://user-images.githubusercontent.com/84536824/145544636-8ffda885-a84c-4569-89a0-90e65a675a4b.mov
+
+
+
+https://user-images.githubusercontent.com/84536824/145544685-b43be2c8-2284-47b4-a0b1-b11ba8dbb003.mov
+
