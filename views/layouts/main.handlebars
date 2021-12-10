@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechnoCumbia</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:ital,wght@0,100;0,600;1,100?family=Redacted+Script:wght@300,400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body class="flex-column min-100-vh">
+  <nav class="navbar">
+    <ul>
+      <li class="li-inline nav-item"><a href="/">Home</a></li>
+
+    {{!-- {{#unless loggedIn}} --}}
+      <li class="li-inline nav-item"><a href="/login">Login</a></li>
+      <li class="li-inline nav-item"><a href="/signup">Sign Up!</a></li>
+    {{!-- {{/unless}} --}}
+
+      {{!-- {{#if loggedIn}} --}}
+      <li class="li-inline nav-item"><a href="/dashboard">Dashboard</a></li>
+      <li class="li-inline nav-item"><a href="#" id="logout-link">Logout</a></li>
+      {{!-- {{/if}} --}}
+
+
+    </ul>
+  </nav>
+  <header class="hero">
+    <a href="/"><img src="/assets/shine (Banner (Landscape)) copy.png" class="aligned-middle box" id="banner"></a>
+  </header>
+
+  <main class="col-auto">
+    {{{body}}}
+  </main>
+
+  <footer class="flex-row justify-center">
+    &copy; los bailarines
+  </footer>
+</body>
+
+</html>
+<script src="/js/logout.js"></script>
