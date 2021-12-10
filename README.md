@@ -22,7 +22,7 @@ All those opinions you have on React? They need a place to go! This simple blog 
 
 ## Preview
 
-
+https://user-images.githubusercontent.com/84536824/145544685-b43be2c8-2284-47b4-a0b1-b11ba8dbb003.mov
 
 ## Website URL
 
@@ -37,11 +37,3 @@ All those opinions you have on React? They need a place to go! This simple blog 
 ----
 ❤️ Made with love by Adriana ❤️
 ©️2021 Copyright Adriana Nieves
-
-
-https://user-images.githubusercontent.com/84536824/145544636-8ffda885-a84c-4569-89a0-90e65a675a4b.mov
-
-
-
-https://user-images.githubusercontent.com/84536824/145544685-b43be2c8-2284-47b4-a0b1-b11ba8dbb003.mov
-
